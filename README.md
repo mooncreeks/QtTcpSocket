@@ -1,2 +1,2 @@
-# QtTcpSocket
-This demo demonstrate a QTcpSocket interface with Signals and Slots
+# QtTcpSocketClient
+This demo demonstrates a QTcpSocket client interface with Signals and Slots
